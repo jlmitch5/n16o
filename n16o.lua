@@ -1,11 +1,9 @@
 --
 -- n16o
---
--- i2c-based er301 control from a korg nanokontrol2
---
+-- i2c-based er301 control
+-- from a korg nanokontrol2
 --
 -- by default er301:
---
 -- cv ports 1-8 correspond
 -- to the nk2 faders (l to r)
 --
