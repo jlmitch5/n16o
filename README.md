@@ -1,6 +1,6 @@
 # n16o
 
-norns script, i2c-based er301 control via korg nanoKONTROL2
+norns script, i2c-based ER-301 control via KORG nanoKONTROL2
 
 ### Requirements
 
@@ -8,3 +8,7 @@ norns script, i2c-based er301 control via korg nanoKONTROL2
 - crow (1.0.2 or later)
 - er-301 (tested with v0.4.27-stable, may work with v0.3-stable, but not tested)
 - nanoKONTROL2
+
+### Documentation
+
+See full documentation and discussion on [lines](https://llllllll.co/t/n16o/28198).
